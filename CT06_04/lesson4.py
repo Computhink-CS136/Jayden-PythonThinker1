@@ -52,7 +52,8 @@
 # user_name = "Jayden"
 # user_age = "13"
 # print(user_name   + " is " + user_age)
-width = input("width of rectangle\n")
-length = input("length of rectangle\n")
-area = width * length
-print("your area of the rectangle is" + area)
+# width = input("width of rectangle\n")
+# length = input("length of rectangle\n")
+# area = width * length
+# said = "your area is"
+# print(said + area)
