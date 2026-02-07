@@ -46,7 +46,7 @@
 # for i in range(num1, num2 + 1):
 #     print(i)
 # task 8
-total = 0
-for i in range(2, 40 + 1, 2):
-    total = total + i
-print("the total sum of even numbers is " + str(total))
+# total = 0
+# for i in range(2, 40 + 1, 2):
+#     total = total + i
+# print("the total sum of even numbers is " + str(total))
