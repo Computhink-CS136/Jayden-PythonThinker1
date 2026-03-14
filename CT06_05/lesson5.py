@@ -38,13 +38,13 @@
 # for i in range(10, 1 - 1, -1):
 #     print(i)
 # print("Boo.")
-# task 7
-# num1 = input("gimme a number.")
+# task 7num1 = input("gimme a number.")
 # num2 = input("gimme another number.")
 # num1 = int(num1)
 # num2 = int(num2)
 # for i in range(num1, num2 + 1):
 #     print(i)
+
 # task 8
 # total = 0
 # for i in range(2, 40 + 1, 2):
