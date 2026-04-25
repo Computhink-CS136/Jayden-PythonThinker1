@@ -1,1 +1,2 @@
-print("Hello from lesson 15")
+import random
+dieroll = [random.randint(1,6), random.randint(1,6), random.randint(1,6), random.randint(1,6), random.randint(1,6)]
