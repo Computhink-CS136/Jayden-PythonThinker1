@@ -53,7 +53,6 @@ The program must:
 # Step 3: Check password and print result
 # ============================================================
 
-#question 1
 #task 1
 num = 10
 while num < 200:
@@ -64,8 +63,8 @@ while num < 200:
         break
 #task 2
 password = "superpass123"
-guess = input("Enter the password: ")
-if guess == password:
+passguess = input("Enter the password")
+if passguess == password:
     print("Access Granted")
 else:
     print("Access Denied")
